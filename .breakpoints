@@ -1,0 +1,20 @@
+{
+  "files": {
+    "enemy.java": [
+      {
+        "id": "3be4e518-518c-49da-b929-b12afc7fbe8a",
+        "line": 24,
+        "version": 641,
+        "index": 466
+      }
+    ],
+    "weapon.java": [
+      {
+        "id": "6b1ec392-e734-4a69-883c-02b275399365",
+        "line": 4,
+        "version": 451,
+        "index": 50
+      }
+    ]
+  }
+}
